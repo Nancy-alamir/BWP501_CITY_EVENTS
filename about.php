@@ -48,22 +48,18 @@
                     <div class="card-body">
                         <div class="row text-center">
                             <div class="col-md-4 mb-3">
-                                <!--<img src="https://via.placeholder.com/100" class="rounded-circle mb-2" alt="أحمد">-->
                                 <h5>بيلسان جفول</h5>
                                 <p class="text-muted">bailassan_261634</p>
                             </div>
                             <div class="col-md-4 mb-3">
-                                <!--<img src="https://via.placeholder.com/100" class="rounded-circle mb-2" alt="محمد">-->
                                 <h5>نانسي الأمير</h5>
                                 <p class="text-muted">Nancy_251606</p>
                             </div>
                             <div class="col-md-4 mb-3">
-                                <!--<img src="https://via.placeholder.com/100" class="rounded-circle mb-2" alt="فاطمة">-->
-                                <h5>آية حمود</h5>
+                                <h5>آية حمودة</h5>
                                 <p class="text-muted">Aya_192581</p>
                             </div>
                             <div class="col-md-4 mb-3">
-                                <!--<img src="https://via.placeholder.com/100" class="rounded-circle mb-2" alt="سارة">-->
                                 <h5>عمر قهوجي</h5>
                                 <p class="text-muted">Omar_188968</p>
                             </div>
